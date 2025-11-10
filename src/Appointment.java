@@ -51,4 +51,11 @@ public class Appointment {
     public HealthProfessional getSelectedDoctor() {
         return selectedDoctor;
     }
+    
+     public HealthProfessional getSelectedDoctor() {
+        return selectedDoctor;
+    }
+    
+    public String getTimeSlot() {
+        return timeSlot;
 }
